@@ -67,5 +67,6 @@ plotwindow = fig.add_subplot(111)
 plt.imshow(im, cmap = 'gray')
 plt.show()
 
-
+'''''演示结束'''''
+print('\n\nThis is MNIST.')
 
