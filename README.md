@@ -1,6 +1,6 @@
-#easy MNIST
+# easy MNIST
 
-##A easy MNIST model to show how softmax regression works.
+## A easy MNIST model to show how softmax regression works.
 
 FILE EXPLANATIONS:
 
