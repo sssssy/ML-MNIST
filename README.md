@@ -1,6 +1,6 @@
 # easy MNIST
 
-## A easy MNIST model to show how softmax regression works.
+### A easy MNIST model to show how softmax regression works.
 
 FILE EXPLANATIONS:
 
@@ -8,4 +8,8 @@ FILE EXPLANATIONS:
 
 	MNIST_data: Automatically downloaded by input_Data.py, including 4 zipped floders, which contain all the basic data sets.
 
-	read_data.py: Self-made unzipping binary data set codes.Used to get random test data to show the model visually.
+	read_data.py: Self-made program to unzip binary data set.Used to get random test data to show the model visually.
+	
+	test-images.idx3-ubyte: Unzipped from MNIST_data separately. Will be used in read_data.py.
+	
+	mnist.py(main): To run this model.
