@@ -13,3 +13,5 @@ FILE EXPLANATIONS:
 	test-images.idx3-ubyte: Unzipped from MNIST_data separately. Will be used in read_data.py.
 	
 	mnist.py(main): To run this model.
+
+	WEIGHT output: Output a WEIGHT example when alpha was set as 0.01. Just to check if the training steps works.
